@@ -1,0 +1,8 @@
+HOW TO RUN AN OBJECT IN JAVA
+
+Example: use Code_NumberTest in the folder Chapter 2 Classes and Objects
+
+1. After writing the codes, save the file and use the name of second class
+as the file name e.g. NumberTest.java.
+
+2. On Windows Powershell type javac NumberTest.java. Then java NumberTest.

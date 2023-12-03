@@ -1,0 +1,25 @@
+class Number {
+
+   int base;
+   int exponent;
+
+   void power() {
+      int result = 1;
+      for (int i = 0; i < exponent; i++) {
+         result *= base;
+      }
+      System.out.print(result);
+   }
+
+}
+
+class Npower2 {
+
+   public static void main(String [] args) {
+      Number.n = new Number();
+      Number.base = 10;
+      Number.exponent = 2;
+      Number.power();
+   }
+
+}

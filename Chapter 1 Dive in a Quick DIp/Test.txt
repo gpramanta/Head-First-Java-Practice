@@ -1,0 +1,24 @@
+ class PoolPuzzleOne {
+    public static void main(String [] args) {
+       int x = 0;
+       while (x < 1) {
+          System.out.print("a");
+          if (x < 1) {
+         System.out.print("noise");
+      }
+      System.out.println("n");
+      if (x < 1) {
+         System.out.println("noys");
+         x = x + 1;
+      }
+      if (x == 1) {
+         System.out.print("");
+      }
+      if () {
+         System.out.print("");
+      }
+      System.out.print("");
+      x = x + 2;
+       }
+    }
+ }
